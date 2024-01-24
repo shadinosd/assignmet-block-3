@@ -1,0 +1,25 @@
+.img-1{
+     background-image: url('Images/2.png');
+   width: 573px;
+height: 338px;
+flex-shrink: 0; 
+padding: 30px;
+ 
+}
+
+.img-2{
+ background-image: url('Images/3.png');
+ width: 573px;
+ height: 338px;
+ flex-shrink: 0; 
+ padding: 30px;
+}
+.img-3{
+     background-image: url('Images/4.png');
+     width: 1170px;
+height: 450px;
+flex-shrink: 0;
+margin-top: 20px;
+padding: 30px;
+}
+   
